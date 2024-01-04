@@ -4,7 +4,9 @@
 - 💞️ I’m always eager to hear about Startup's
 - 📫 How to reach me :
 <a href="https://www.instagram.com/_vikaschaudhary_001/"> Instagram </a>
+<br>
 <a href="https://www.linkedin.com/in/vikas-chaudhary-8b6318289/"> LinkedIn </a>
+<br>
 <a href="https://leetcode.com/VikasChaudhary_28/"> Leetcode </a>
 
 <!---

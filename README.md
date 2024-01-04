@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java but i also have a knowledge of C,Javascript,Html/Css and Java
 - 💞️ I’m always eager to hear about Startup's
 - 📫 How to reach me :
+- <br>
 <a href="https://www.instagram.com/_vikaschaudhary_001/"> Instagram </a>
 <br>
 <a href="https://www.linkedin.com/in/vikas-chaudhary-8b6318289/"> LinkedIn </a>

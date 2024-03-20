@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikas-chaudhary-2802
 - 👀 I’m interested in Entrepreneurship and Coding
-- 🌱 I’m currently learning Java but i also have a knowledge of C,Javascript,Html/Css and Java
+- 🌱 I’m currently learning Java but i also have a knowledge of C,Javascript,Html/Css , React Js , Python and Ruby
 - 💞️ I’m always eager to hear about Startup's
 - 📫 How to reach me : <br>
 <a href="https://www.instagram.com/_vikaschaudhary_001/"> Instagram </a><br>

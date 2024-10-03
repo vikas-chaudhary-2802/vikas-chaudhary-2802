@@ -3,6 +3,7 @@ Hi 👋, I'm Vikas Chaudhary<br>B.Tech Undergrad (2023-27)<br>
 
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vikaschaudhary_.45) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-chaudhary28/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikasch2802) 
 
 # 💻 Tech Stack:
